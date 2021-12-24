@@ -1,7 +1,7 @@
 <h3>:hand:Hi there! My name is Chaeryong Lim.</h3>
 I wanna be a web programmer!:pray:<br>
 <p>
-  <li>:blue_book:I'm currently learning web front-end, back-end</li>
+  <li>:blue_book:I'm currently learning <b>front-end</b>, <b>back-end</b></li>
   <li>:email:How to reach me : <a href="lcr157@naver.com target="_blank">lcr157@naver.com</a></li>
 </p>
     
