@@ -5,8 +5,8 @@ I wanna be a web programmer!:pray:<br>
   <li>:email:How to reach me : <a href="lcr157@naver.com target="_blank">lcr157@naver.com</a></li>
 </p>
     
-<a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="https://www.instagram.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=Instagram&logoColor=white"/></a> <br><br>
+<img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=Instagram&logoColor=white"/></a> <br><br>
 
 <p><h3>:muscle: Stack</h3></p>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"/></a>
