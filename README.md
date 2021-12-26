@@ -11,8 +11,8 @@
 
 <p><h3>:raising_hand: Experience</h3></p>
 <p>
-  <li>:school:Namseoul University, Information Communication Engineering (2015 ~ 2019) </li>
-  <li>:school:Sejong University, Intelligent Mechatronics (2020 ~ 2022) </li>
+  <li>:school:Namseoul University, Information Communication Engineering (2015.03 ~ 2020.02) </li>
+  <li>:school:Sejong University, Intelligent Mechatronics (2020.03 ~ 2022.02) </li>
 </p>
   
 <p><h3>:muscle: Stack</h3></p>
