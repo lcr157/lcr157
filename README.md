@@ -18,11 +18,15 @@
 </p>
   
 <p><h3>:muscle: Stack</h3></p>
-<a href="" target=""><img src="https://img.shields.io/badge/python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/C-violet?style=flat-square&logo=C&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/Slack-wine?style=flat-square&logo=Slack&logoColor=white"/></a>
+<a href="" target=""><img src="https://img.shields.io/badge/C-red?style=flat-square&logo=C&logoColor=white"/></a>
+<a href="" target=""><img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=J&logoColor=white"/></a>
+<a href="" target=""><img src="https://img.shields.io/badge/Spring-yellow?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="" traget""><img src="https://img.shields.io/badge/Oracle-green?style=flat-square&logo=oracle&logoColor=white"></a>
+<a href="" traget""><img src="https://img.shields.io/badge/Mybatis-sykblue?style=flat-square&logo=mybatis&logoColor=white"></a>
+<a href="" traget""><img src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=Javascript&logoColor=white"></a>
+<a href="" traget""><img src="https://img.shields.io/badge/Ajax-violet?style=flat-square&logo=Ajax&logoColor=white"></a>
+<a href="" traget""><img src="https://img.shields.io/badge/Apachetomcat-A9225C?style=flat-square&logo=apachetomcat&logoColor=white"></a>
 <a href="" target=""><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcr157&show_icons=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcr157&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
