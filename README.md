@@ -14,7 +14,7 @@
 <p>
   <li>:school:Namseoul University, Information Communication Engineering (2015.03 ~ 2020.02) </li>
   <li>:school:Sejong University, Intelligent Mechatronics (2020.03 ~ 2022.02) </li>
-  <li>:school:government subsidy academy In mapo (2022.02 ~        ) </li>
+  <li>:school:government subsidy academy In mapo (2022.02 ~ 2022.06) </li>
 </p>
   
 <p><h3>:muscle: Stack</h3></p>
