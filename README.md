@@ -6,7 +6,7 @@
 
 <h3>:star:Who Am I</h3>
 <p>
-  <li>:blue_book:I'm currently learning <b>government subsidy academy In mapo</b></li>
+  <li>:blue_book:I'm preparing <b>for a job</b></li>
   <li>:email:How to reach me : <a href="lcr157@naver.com target="_blank">lcr157@naver.com</a></li>
 </p>
 
