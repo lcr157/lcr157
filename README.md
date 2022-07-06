@@ -1,4 +1,4 @@
-<h2>백엔드 개발자가 되고싶은 임채룡이라고 합니다. :hand:</h2>
+<h2>백엔드 개발 :hand:</h2>
 
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=Instagram&logoColor=white"/></a>
