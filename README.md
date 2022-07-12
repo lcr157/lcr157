@@ -1,7 +1,6 @@
 <h2>백엔드 개발 :hand:</h2>
 
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="https://www.instagram.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
 
 <h3>:star:메일</h3>
@@ -11,7 +10,8 @@
 
 <p><h3>:raising_hand: 학력 및 교육이수</h3></p>
 <p>
-  <li>:school:[편입]세종대학교 지능기전공학과 (2020.03 ~ 2022.02) </li>
+  <li>:school:남서울대학교 정보통신공학과 (2015.03 ~ 2019.07) </li>
+  <li>:school:세종대학교 지능기전공학과 (2020.03 ~ 2022.02) </li>
   <li>:school:쌍용교육센터 - 국비지원학원 Java 풀스택과정 이수 (2022.02 ~ 2022.06) </li>
 </p>
   
