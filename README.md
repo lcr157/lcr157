@@ -5,7 +5,7 @@
 
 <h3>:star:메일 및 블로그</h3>
 <p>
-  <li>:email: <a href="lcr157@naver.com target="_blank">lcr157@naver.com</a></li>
+  <li>:email: lcr157@naver.com</li>
   <li><a href="https://blog.naver.com/lcr157" target="_blank">블로그</a> - <b>개발직군에 대하여 공부했던 내용들을 정리해놓았습니다.</b></li>
 </p>
 
