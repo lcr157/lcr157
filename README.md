@@ -3,9 +3,10 @@
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
 
-<h3>:star:메일</h3>
+<h3>:star:메일 및 블로그</h3>
 <p>
   <li>:email: <a href="lcr157@naver.com target="_blank">lcr157@naver.com</a></li>
+  <li><a href="https://blog.naver.com/lcr157" target="_blank">블로그</a> - <b>개발직군에 대하여 공부했던 내용들을 정리해놓았습니다.</b></li>
 </p>
 
 <p><h3>:raising_hand: 학력 및 교육이수</h3></p>
@@ -19,6 +20,8 @@
 <a href="" target=""><img src="https://img.shields.io/badge/C-red?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target=""><img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=J&logoColor=white"/></a>
 <a href="" target=""><img src="https://img.shields.io/badge/Spring-yellow?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="" target=""><img src="https://img.shields.io/badge/SpringBoot-yellow?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="" traget""><img src="https://img.shields.io/badge/JPA-skyblue?style=flat-square&logo=oracle&logoColor=white"></a>
 <a href="" traget""><img src="https://img.shields.io/badge/Oracle-green?style=flat-square&logo=oracle&logoColor=white"></a>
 <a href="" traget""><img src="https://img.shields.io/badge/Mybatis-sykblue?style=flat-square&logo=mybatis&logoColor=white"></a>
 <a href="" traget""><img src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=Javascript&logoColor=white"></a>
@@ -54,3 +57,12 @@
 > 
 
 ---
+### 3. [개인 토이프로젝트](https://github.com/lcr157/CRUD_Board)
+>CRUD와 검색 및 페이징처리 적용한 게시판과 oAuth 2.0을 이용한 카카오 연동 프로젝트 (개인 토이프로젝트)
+>
+>개발 기간: 2020.07.12 ~ 2020.07.26  
+>  
+>개발 환경 및 사용 스택 : <br>
+>Java / Spring boot / JPA / Apache Tomcat / oAuth 2.0 / Eclipse / Git<br>
+>AJAX / JSP / jQuery JSON / HTML / CSS / JavaScript
+> 
