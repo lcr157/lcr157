@@ -34,7 +34,7 @@
 <br><br>
 
 ## :pushpin: 코딩테스트
-### 1. [Java기초및자료구조](https://github.com/lcr157/Java_BasicAndDataStructer/blob/main/README.md)
+### 1. [Java기초및자료구조](https://github.com/lcr157/Java_BasicAndDataStructer)
 >Java에 대한 기본적인 개념및코드 공부와 코딩테스트의 기본인 자료구조 공부내용
 >
 <br><br>
