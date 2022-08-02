@@ -31,7 +31,13 @@
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcr157&show_icons=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcr157&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br><br>
+
+## :pushpin: 코딩테스트
+### 1. [Java기초및자료구조](https://github.com/lcr157/Java_BasicAndDataStructer/blob/main/README.md)
+>Java에 대한 기본적인 개념및코드 공부와 코딩테스트의 기본인 자료구조 공부내용
+>
+<br><br>
 
 ## :pushpin: 프로젝트
 ### 1. [dog_feed](https://github.com/lcr157/dogFeed)
