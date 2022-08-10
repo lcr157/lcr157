@@ -1,13 +1,8 @@
-<h2>백엔드 개발 :hand:</h2>
+<h2>백엔드 개발직군 준비중입니다! :hand:</h2>
 
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
 
-<h3>:star:메일 및 블로그</h3>
-<p>
-  <li>:email: lcr157@naver.com</li>
-  <li><a href="https://blog.naver.com/lcr157" target="_blank">블로그</a> - <b>개발직군에 대하여 공부했던 내용들을 정리해놓았습니다.</b></li>
-</p>
 
 <p><h3>:raising_hand: 학력 및 교육이수</h3></p>
 <p>
@@ -52,7 +47,7 @@
 
 ---
 
-### 2. [devLearn](https://github.com/SeongbinChoi/devLearn)
+### 2. [devLearn](https://github.com/lcr157/FinalProject_DevLearn)
 >강의판매플랫폼 (학원 파이널프로젝트)  
 >
 >개발 기간: 2020.06.01 ~ 2020.06.30  
