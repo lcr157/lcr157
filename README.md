@@ -50,7 +50,7 @@
 ### 2. [devLearn](https://github.com/lcr157/FinalProject_DevLearn)
 >강의판매플랫폼 (학원 파이널프로젝트)  
 >
->개발 기간: 2020.06.01 ~ 2020.06.30  
+>개발 기간: 2022.06.01 ~ 2022.06.30  
 >  
 >개발 환경 및 사용 스택 : <br>
 >Java / Spring / Mybatis3 / Apache Tomcat / Eclipse / Oracle / Git<br>
