@@ -61,7 +61,7 @@
 ### 3. [개인 토이프로젝트](https://github.com/lcr157/CRUD_Board)
 >Springboot와 JPA를 이용한 CRUD와 검색 및 페이징처리 적용한 게시판과 oAuth 2.0을 이용한 카카오 연동 프로젝트 (개인 토이프로젝트)
 >
->개발 기간: 2020.07.12 ~ 2020.07.26  
+>개발 기간: 2022.07.12 ~ 2022.07.26  
 >  
 >개발 환경 및 사용 스택 : <br>
 >Java / Spring boot / JPA / Apache Tomcat / oAuth 2.0 / Eclipse / Git<br>
