@@ -53,7 +53,7 @@
 >개발 기간: 2022.06.01 ~ 2022.06.30  
 >  
 >개발 환경 및 사용 스택 : <br>
->Java / Spring / Mybatis3 / Apache Tomcat / Eclipse / Oracle / Git<br>
+>Java / Spring / Mybatis3 / Apache Tomcat / Sts3 / Oracle / Git<br>
 >AJAX / JSP / jQuery JSON / XML/ HTML / CSS / JavaScript
 > 
 
@@ -64,6 +64,6 @@
 >개발 기간: 2022.07.12 ~ 2022.07.26  
 >  
 >개발 환경 및 사용 스택 : <br>
->Java / Spring boot / JPA / Apache Tomcat / oAuth 2.0 / Eclipse / Git<br>
+>Java / Spring boot / JPA / Apache Tomcat / oAuth 2.0 / Sts4 / Git<br>
 >AJAX / JSP / jQuery JSON / HTML / CSS / JavaScript
 > 
