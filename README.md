@@ -1,4 +1,4 @@
-<h2>백엔드 개발직군 준비중입니다! :hand:</h2>
+<h2>자바 웹 개발자 준비중입니다! :hand:</h2>
 
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
@@ -27,6 +27,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcr157&show_icons=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcr157&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
+
 
 ## :pushpin: 코딩테스트
 ### 1. [Java기초및자료구조](https://github.com/lcr157/Java_BasicAndDataStructer)
