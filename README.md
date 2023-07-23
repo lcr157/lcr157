@@ -1,4 +1,4 @@
-<h2>자바 웹 개발자 준비중입니다! :hand:</h2>
+<h2>반갑습니다! 주니어 자바 풀스택 웹 개발자입니다! :hand:</h2>
 
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
