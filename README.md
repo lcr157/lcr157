@@ -11,9 +11,9 @@
 
 <p><h3>:raising_hand: 학력 및 교육이수</h3></p>
 <p>
-  <li>남서울대학교 정보통신공학과 (2015.03 ~ 2019.07) </li>
-  <li>세종대학교 지능기전공학과 (2020.03 ~ 2022.02) </li>
   <li>쌍용교육센터 - 국비지원학원 Java 풀스택과정 이수 (2022.01 ~ 2022.06) </li>
+  <li>세종대학교 지능기전공학과 (2020.03 ~ 2022.02) </li>
+  <li>남서울대학교 정보통신공학과 (2015.03 ~ 2019.07) </li>
 </p>
   
 <p><h3>:muscle: 스택</h3></p>
@@ -35,14 +35,14 @@
 
 
 ## :pushpin: 실무 프로젝트
-### 1. [SMIS](https://github.com/lcr157/dogFeed)
->법인 봉제 MES시스템 신규 구축
+### 1. [SMIS](https://www.etnews.com/20220531000202)
+>인도네시아 해외 법인 봉제 MES시스템 신규 구축
 >
 >개발 기간: 2022.10 ~ 2023.09
 >  
 >개발 환경 및 사용 스택 : <br>
 >Front End(FE) : <b>Nexacro</b> / JavaScript  <br>
->Back End(BE) : <b>Java</b> / Apache Tomcat / Eclipse / Mybatis  <br>
+>Back End(BE) : <b>Java</b> / <b>Spring</b> / Apache Tomcat / Eclipse / Mybatis / e-gov(전자정부프레임워크)  <br>
 >DataBaser(DB) : <b>Oracle</b>  <br>
 >Software Configuration Management(SCM) : <b>GitLab</b> / Jenkins <br>
 >HardWare(H/W) : <b>UbiReport</b>
@@ -58,7 +58,7 @@
 >  
 >개발 환경 및 사용 스택 : <br>
 >Front End(FE) : HTML / CSS / JavaScript <br>
->Back End(BE) : <b>Java</b> / Apache Tomcat / Eclipse / Mybatis / AJAX / JSP / jQuery <br>
+>Back End(BE) : <b>Java</b> / <b>Spring</b> / Apache Tomcat / Eclipse / Mybatis / AJAX / JSP / jQuery <br>
 >DataBaser(DB) : <b>Oracle</b>  <br>
 >Software Configuration Management(SCM) : <b>GitHub</b>
 >
@@ -72,7 +72,7 @@
 >  
 >개발 환경 및 사용 스택 : <br>
 >Front End(FE) : HTML / CSS / JavaScript <br>
->Back End(BE) : <b>Java</b> / Apache Tomcat / Eclipse / Mybatis / Sts3 / AJAX / JSP / jQuery <br>
+>Back End(BE) : <b>Java</b> / <b>Spring</b> / Apache Tomcat / Eclipse / Mybatis / Sts3 / AJAX / JSP / jQuery <br>
 >DataBaser(DB) : <b>Oracle</b>  <br>
 >Software Configuration Management(SCM) : <b>GitHub</b>
 >
