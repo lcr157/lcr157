@@ -3,39 +3,30 @@
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
 
-<p><h3>👨‍💼 커리어</h3></p>
 <p>
-  <li>(주) 신원 SmartFactory팀 - 법인 봉제 MES시스템 구축 및 운영 (2022.10 ~ )</li>
+  <li>🚶 아직은 미숙하지만 웹 풀스텍 앤지니어가 되기 위해 한걸음씩 나아가고 있습니다. </li>
+  <li>🤔 사용자들에게 편리함과 효율적인 서비스를 제공해주고 싶습니다. </li>
+  <li>😊 힘든 상황이 오더라도 인생의 자양분이 될거란 믿음으로 열심히 살려고 노력중입니다. </li>
 </p>
 
-
-<p><h3>:raising_hand: 학력 및 교육이수</h3></p>
-<p>
-  <li>쌍용교육센터 - 국비지원학원 Java 풀스택과정 이수 (2022.01 ~ 2022.06) </li>
-  <li>세종대학교 지능기전공학과 (2020.03 ~ 2022.02) </li>
-  <li>남서울대학교 정보통신공학과 (2015.03 ~ 2019.07) </li>
-</p>
-  
 <p><h3>:muscle: 스택</h3></p>
-<a href="" target=""><img src="https://img.shields.io/badge/C-red?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target=""><img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=J&logoColor=white"/></a>
 <a href="" target=""><img src="https://img.shields.io/badge/Spring-yellow?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/SpringBoot-yellow?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="" traget""><img src="https://img.shields.io/badge/JPA-skyblue?style=flat-square&logo=oracle&logoColor=white"></a>
 <a href="" traget""><img src="https://img.shields.io/badge/Oracle-green?style=flat-square&logo=oracle&logoColor=white"></a>
 <a href="" traget""><img src="https://img.shields.io/badge/Mybatis-sykblue?style=flat-square&logo=mybatis&logoColor=white"></a>
 <a href="" traget""><img src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=Javascript&logoColor=white"></a>
 <a href="" traget""><img src="https://img.shields.io/badge/Ajax-violet?style=flat-square&logo=Ajax&logoColor=white"></a>
-<a href="" traget""><img src="https://img.shields.io/badge/Apachetomcat-A9225C?style=flat-square&logo=apachetomcat&logoColor=white"></a>
+<a href="" traget""><img src="https://img.shields.io/badge/Apache tomcat-A9225C?style=flat-square&logo=apachetomcat&logoColor=white"></a>
 <a href="" target=""><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcr157&show_icons=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcr157&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 
 
 ## :pushpin: 실무 프로젝트
-### 1. [SMIS](https://www.etnews.com/20220531000202)
+### 1. [SWMIS](https://www.etnews.com/20220531000202)
 >인도네시아 해외 법인 봉제 MES시스템 신규 구축
 >
 >개발 기간: 2022.10 ~ 2023.09
