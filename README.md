@@ -1,4 +1,4 @@
-<h2>:hand: 자바 풀스택 주니어 웹 개발자입니다!</h2>
+<h2>:hand: 자바 웹 풀스택 주니어 개발자입니다!</h2>
 
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
