@@ -1,7 +1,8 @@
 <h2>:hand: 자바 웹 풀스택 주니어 개발자입니다!</h2>
 
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a> <br>
+<a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a>
+<a href="https://www.notion.so/Lim-s-PortoFolio-d0709b9222cf4b1285ea252e32014ce3?pvs=4"> <img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white"/></a> <br>
 
 <p>
   <li>🚶 아직은 미숙하지만 웹 풀스텍 앤지니어가 되기 위해 한걸음씩 나아가고 있습니다. </li>
