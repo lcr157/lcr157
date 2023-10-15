@@ -27,8 +27,8 @@
 
 
 ## :pushpin: 실무 프로젝트
-### 1. [SWMIS](https://www.etnews.com/20220531000202)
->인도네시아 해외 법인 봉제 MES시스템 신규 구축
+### 1. [SWMIS](https://www.notion.so/MES-2022-10-4edc0787b7c449ada7e9cd7d69fb356d)
+>**[인도네시아 해외 법인 봉제 MES시스템 신규 구축](https://www.etnews.com/20220531000202)**
 >
 >개발 기간: 2022.10 ~ 2023.09
 >  
