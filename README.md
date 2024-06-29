@@ -1,25 +1,61 @@
-<h2>:hand: 자바 웹 풀스택 주니어 개발자입니다!</h2>
+<h2>:hand: 성장하고 있는 풀스택 개발자입니다!</h2>
 
 <a href="https://blog.naver.com/lcr157" target="_blank"><img src="https://img.shields.io/badge/BLOG-green?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.kaggle.com/chaeryonglim" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 <a href="https://www.notion.so/Lim-s-PortoFolio-d0709b9222cf4b1285ea252e32014ce3?pvs=4"> <img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white"/></a> <br>
 
 <p>
-  <li>🚶 아직은 미숙하지만 웹 풀스텍 앤지니어가 되기 위해 한걸음씩 나아가고 있습니다. </li>
+  <li>🚶 아직은 미숙하지만 풀스텍 개발자가 되기 위해 한걸음씩 나아가고 있습니다. </li>
   <li>🤔 사용자들에게 편리함과 효율적인 서비스를 제공해주고 싶습니다. </li>
   <li>😊 힘든 상황이 오더라도 인생의 자양분이 될거란 믿음으로 열심히 살려고 노력중입니다. </li>
-</p>
+</p><br>
 
 <p><h3>:muscle: 스택</h3></p>
-<a href="" target=""><img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=J&logoColor=white"/></a>
-<a href="" target=""><img src="https://img.shields.io/badge/Spring-yellow?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="" traget""><img src="https://img.shields.io/badge/Oracle-green?style=flat-square&logo=oracle&logoColor=white"></a>
-<a href="" traget""><img src="https://img.shields.io/badge/Mybatis-sykblue?style=flat-square&logo=mybatis&logoColor=white"></a>
-<a href="" traget""><img src="https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=Javascript&logoColor=white"></a>
-<a href="" traget""><img src="https://img.shields.io/badge/Ajax-violet?style=flat-square&logo=Ajax&logoColor=white"></a>
-<a href="" traget""><img src="https://img.shields.io/badge/Apache tomcat-A9225C?style=flat-square&logo=apachetomcat&logoColor=white"></a>
-<a href="" target=""><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
-    
+<p>
+  <h4>⚓ 프로그래밍 언어 ⚓</h4>
+  <a href="" target=""><img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=J&logoColor=white"/></a>
+</p>
+
+<p>
+  <h4>⚓ 프레임워크 ⚓</h4>
+  <a href="" target=""><img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/></a>
+</p>
+
+<p>
+  <h4>⚓ DBMS ⚓</h4>
+  <a href="" traget""><img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=oracle&logoColor=white"></a>
+  <a href="" traget""><img src="https://img.shields.io/badge/MARIADB-gray?style=flat-square&logo=MARIADB&logoColor=white"></a>
+  <a href="" traget""><img src="https://img.shields.io/badge/ElasticSearch-green?style=flat-square&logo=ElasticSearch&logoColor=white"></a>
+</p>
+
+<p>
+  <h4>⚓ FrontEnd ⚓</h4>
+  <a href="" traget""><img src="https://img.shields.io/badge/JSP-yellow?style=flat-square&logo=JSP&logoColor=white"></a>
+  <a href="" traget""><img src="https://img.shields.io/badge/Nexacro-green?style=flat-square&logo=Nexacro&logoColor=white"></a>
+  <a href="" traget""><img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"></a>
+  <a href="" traget""><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"></a>
+  <a href="" traget""><img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"></a>
+</p>
+
+<p>
+  <h4>⚓ 형상관리 ⚓</h4>
+  <a href="" target=""><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/SVN-gray?style=flat-square&logo=Subversion&logoColor=white"/></a>
+</p>
+
+<p>
+  <h4>⚓ IDE ⚓</h4>
+  <a href="" target=""><img src="https://img.shields.io/badge/Eclipse-purple?style=flat-square&logo=Eclipse&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/VSCode-Indigo?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
+</p>
+
+<p>
+  <h4>⚓ 그 밖에 ⚓</h4>
+  <a href="" target=""><img src="https://img.shields.io/badge/Python-purple?style=flat-square&logo=Python&logoColor=white"/></a>
+  <a href="" target=""><img src="https://img.shields.io/badge/A.I-red?style=flat-square&logo=A.I&logoColor=white"/></a>
+</p>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcr157&show_icons=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcr157&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
