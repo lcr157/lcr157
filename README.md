@@ -5,9 +5,9 @@
 <a href="https://www.notion.so/Lim-s-PortoFolio-d0709b9222cf4b1285ea252e32014ce3?pvs=4"> <img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white"/></a> <br>
 
 <p>
-  <li>🚶 아직은 미숙하지만 풀스텍 개발자가 되기 위해 한걸음씩 나아가고 있습니다. </li>
+  <li>🚶 주니어 개발자이기에 다양하고 능력있는 개발자가 되기 위해 한걸음씩 나아가고 있습니다. </li>
   <li>🤔 사용자들에게 편리함과 효율적인 서비스를 제공해주고 싶습니다. </li>
-  <li>😊 힘든 상황이 오더라도 인생의 자양분이 될거란 믿음으로 열심히 살려고 노력중입니다. </li>
+  <li>😊 힘든 상황이 오더라도 인생의 자양분이 될거란 믿음으로 끝까지 하는 편입니다. </li>
 </p><br>
 
 <p><h3>:muscle: 스택</h3></p>
@@ -56,8 +56,8 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcr157&show_icons=true&theme=dracula)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcr157&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcr157&show_icons=true&theme=dracula)<br> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcr157&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br><br>
 
